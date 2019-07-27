@@ -14,3 +14,9 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+.DS_Store
+.idea/
+*.sass-cache
+*.css.map
+.history
